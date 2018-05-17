@@ -42,4 +42,4 @@ ngram_strategy | Text splitting algorithm | unigram, filtered_unigram, bigram, f
 ## Author
 
 - [Boburmirzo Umurzokov](https://github.com/Boburmirzo)
-- [Shahriyor Ergashev] (https://github.com/shaxri/)
+- [Shahriyor Ergashev](https://github.com/shaxri/)
